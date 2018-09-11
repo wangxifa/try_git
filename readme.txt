@@ -4,3 +4,4 @@ Git is hello!
 git is hi!
 this is dev!
 hi！
+Creating a new branch is quick & simple.
